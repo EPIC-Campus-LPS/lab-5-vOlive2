@@ -21,7 +21,10 @@ False
 
 Write a program to print out the first n rows of Pascal's triangle where n is taken as input from the user. 
 
-Except for the outer rows which are always one, you get the each value by summing the two values above it. 
+Except for the outer rows which are always one, you get the each value by summing the two values above it
+
+![PascalTriangleAnimated2](https://github.com/user-attachments/assets/b3c0338c-a6d7-41ac-9df2-0f3939f8316b)
+. 
 
 ```
 Input: 7
